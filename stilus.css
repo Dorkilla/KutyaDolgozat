@@ -1,0 +1,20 @@
+.valasztott{
+    background-color:rgb(240, 192, 240) ;
+}
+.adatok{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    align-items:center;
+}
+.kutyakartya{
+    height:100%;
+    border:5px solid black;
+    border-radius:15px;
+    padding:20px;
+    flex:0 0 200px;
+}
+.kutyakartya img{
+    width: 100%;
+    height: 100%;
+}
